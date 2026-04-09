@@ -5,14 +5,14 @@ A full-stack web application for booking flights. This project features a robust
 ## Tech Stacks
 
 ### Backend
-- **Framework**: Spring Boot (v4.0.5)
+- **Framework**: Spring Boot 
 - **Language**: Java 21
 - **Database**: PostgreSQL
 - **ORM**: Spring Data JPA
 - **Build Tool**: Gradle
 
 ### Frontend
-- **Framework**: React 19
+- **Framework**: React 
 - **Routing**: React Router DOM
 - **Build Tool**: Vite
 - **Language**: JavaScript
