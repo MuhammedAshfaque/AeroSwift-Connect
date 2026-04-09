@@ -1,0 +1,36 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+build/
+.gradle/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+venv/
+
+# Env files
+.env
+.env.local
+application.properties
+
+# Database
+*.sql
+*.dump
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.pdf
+*.tex
